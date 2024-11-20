@@ -7,7 +7,7 @@ jobs:
   locust-test:
     runs-on: ubuntu-latest
   steps:
-    - name: Check out the repository
+    - name: TP5_LOG3430
       uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v2
